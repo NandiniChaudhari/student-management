@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Course Management API
 
 A Flask-based REST API for managing students and courses with JWT authentication.
@@ -53,3 +54,6 @@ python app.py
 ## License
 
 MIT
+=======
+# student-management
+>>>>>>> 2f2a7e8739223526e9e5fb051f281c1f2e68fc9d
